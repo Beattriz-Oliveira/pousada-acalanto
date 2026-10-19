@@ -142,6 +142,7 @@ acalanto/
 ├── requirements.txt
 │
 ├── assets/
+│   ├── Gif - Acalanto            # Gif de demonstração do projeto
 │   └── thumbnail.png             # Imagem de apresentação do projeto
 │
 ├── docs/
