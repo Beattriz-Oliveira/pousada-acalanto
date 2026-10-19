@@ -1,0 +1,21 @@
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Power BI
+bi/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
